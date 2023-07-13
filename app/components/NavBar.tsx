@@ -16,7 +16,7 @@ export default function NavBar() {
                 <ul className="flex">
                     {navLinks.map((item, id) => (
                         <li
-                            className="p-4"
+                            className="p-4 transition ease-in-out delay-100 hover:text-red-300 duration-100"
                             key={id}
                         >
                             <Link href={item.href}>{item.title}</Link>
