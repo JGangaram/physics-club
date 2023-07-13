@@ -15,13 +15,13 @@ export default function About() {
       </div>
       <div>
         <p className="mb-4">
-          For a thousand years the tradition of keeping and maintaining student curiosity in physics has been managed by this club. It went through thick and thin, through the dehydrating deserts and surface erroding winds in Sibera, our agents and missionaries carried along.
+          For a thousand years the tradition of keeping and maintaining student curiosity in physics has been managed by this club. It went through thick and thin, through the dehydrating deserts and surface erroding winds in Siberia, our agents and missionaries carried along.
         </p>
         <p className="mb-4">
           Also, we have a microwave, a fridge, two large whiteboards, snacks from time to time thanks to awesome contributions of our distinguished members.
         </p>
         <p className="mb-4">
-          But more importantly, it's an awesome place of comrodary among fellow Physics and CS undergraduates, where we work together, discuss interesting ideas, socialize and pull all-nighters. (Actually happened a couple times.)
+          But more importantly, it's an awesome place of comradery among fellow Physics and CS undergraduates, where we work together, discuss interesting ideas, socialize and pull all-nighters. (Actually happened a couple times.)
         </p>
       </div>
       
